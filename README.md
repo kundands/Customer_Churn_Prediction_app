@@ -53,7 +53,7 @@ Probability-based prediction output
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/customer-churn-app.git
+git clone https://github.com/kundands/Customer_Churn_Prediction_app.git
 cd customer-churn-app
 ```
 
@@ -64,12 +64,10 @@ python -m venv venv
 
 ### **3. Activate the Virtual Environment (Windows)**
 ```bash
-
 venv\Scripts\activate
 ```
 ### **4. Activate the Virtual Environment (Mac/Linux)**
 ```bash
-
 source venv/bin/activate
 ```
 ### **5. Install Dependencies**
